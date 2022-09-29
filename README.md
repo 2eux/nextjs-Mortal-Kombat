@@ -5,3 +5,5 @@ NextJs + Tailwind JIT + Headless UI
 
 Credit: Image Source
 https://wallpapercave.com/wp/wp3298492.jpg
+
+Midway Games, Inc. holds all registered copyrights and trademarks related to the Mortal Kombat.
