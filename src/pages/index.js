@@ -16,7 +16,7 @@ export default function Home() {
 
   return (
     <>
-      <div className="bg-hero-pattern fixed inset-0 flex items-center justify-center">
+      <div className="bg-hero-pattern bg-no-repeat bg-cover bg-center bg-fixed fixed inset-0 flex items-center justify-center">
         <button
           type="button"
           onClick={openModal}
